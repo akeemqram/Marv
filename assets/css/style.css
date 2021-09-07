@@ -1,0 +1,108 @@
+body{
+    background-color: white;
+    border-radius: 20px;
+    font-family: sans-serif;
+    padding: 30px 25px 100px 40px;
+    margin-left: 50px;
+}
+.nav-container ul {
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+    position: relative;
+    top: 20px;
+    
+}
+.nav-list {
+    width: 70%;
+    display: flex;
+    text-decoration: none; 
+    list-style: none;
+    justify-content: space-between;
+    position: relative;
+    margin-left: 35px;
+    
+}
+.nav-list a{
+    text-decoration: none;
+    color: black;
+    font-size: small;
+    position: relative;
+    bottom: 3px;
+
+}
+#brand-logo{
+    display: flex;
+    position: relative;
+    bottom: 2px;
+    padding-right: 40px;
+    right: 45px;
+}
+img{
+    position: relative;
+    bottom: 10px;
+    
+}
+h3{
+    color: #078275;
+    font-size: 1em;
+    list-style: none;
+    font-weight: bold;
+    position: relative;
+    bottom: 17px;
+}
+.button{
+    background-color: #078275;
+    color: white; 
+    padding: 12px 30px;
+    margin: auto;
+    font-size: 0.75em;
+    border-radius: 7px;
+    border: 0.2em #078275 solid;
+    float: right;
+    position: relative;
+    bottom: 60px;
+}
+.button-1{
+    background-color: #078275;
+    color: white; 
+    padding: 12px 30px;
+    margin: auto;
+    font-size: 0.75em;
+    border-radius: 7px;
+    border: 0.1em #078275 solid;
+    margin-right: 10px;
+}
+.button-2{
+    background-color: transparent;
+    color: #078275;
+    padding: 12px 30px;
+    font-size: 0.75em;
+    border-radius: 7px;
+    border: 0.1em #078275 solid;
+}
+.section-button{
+    margin: 0px;
+    position: relative;
+    bottom: 60px;
+}
+.section{
+    width:55%;
+    margin: 85px 0px; 
+}
+h4{
+    font-size: 12px;
+    padding: 0px;
+}
+h1{
+    font-size: 3em;
+    margin: 15px 0px;
+    line-height: 1em
+    
+}
+p{
+    margin: 25px 0px;
+    width: 75%;
+    margin-right: 0px;
+    font-size: 13px;
+}
